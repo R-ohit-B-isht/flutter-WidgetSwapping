@@ -1,16 +1,35 @@
-# flutter_application_2
 
-A new Flutter project.
+# Widget Swapping
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+## Run Locally
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Clone the project
+
+```bash
+  git clone https://github.com/R-ohit-B-isht/flutter-WidgetSwapping.git
+```
+
+Open the project directory in Vs Code / android Studios
+
+```bash
+  cd my-project
+```
+
+Just run
+
+```bash
+  flutter run -d chrome
+```
+
+
+
+## initial
+
+![App Screenshot](https://github.com/R-ohit-B-isht/flutter-WidgetSwapping/blob/main/images/1.JPG)
+
+
+## final
+![App Screenshot](https://github.com/R-ohit-B-isht/flutter-WidgetSwapping/blob/main/images/2.JPG)
